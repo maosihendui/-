@@ -1,0 +1,58 @@
+
+
+.screen {
+  position: fixed;
+  color: #000000;
+  font-size: 30px;
+  bottom: 780rpx;
+  text-align: right;
+  width: 730rpx;
+  word-wrap: break-word;
+}
+
+.per_num {
+  position: fixed;
+  color: #000000;
+  font-size: 25px;
+  bottom: 1000rpx;
+  text-align: left;
+  width: 730rpx;
+  word-wrap: break-word;
+  background-color: rgba(255, 216, 216, 0.658);
+}
+
+.percent{
+  font-size: 25px;
+  width: 730rpx;
+  background-color: rgba(255, 180, 180, 0.726);
+}
+
+.btnGroup{
+  display:flex;
+  flex-direction: row ;
+  bottom: 20rpx;
+}
+
+.item{
+  
+  width: 190rpx;
+  line-height: 148rpx;
+  border-radius: 5%;
+  text-align: center;
+}
+
+.green{
+  /*前景*/
+  color: #000000;
+  border: solid 1rpx #ffffff;
+  /*背景*/
+  background: #aeafac;
+}
+
+.blue{
+  /*前景*/
+  color: #000000;
+  border: solid 1rpx #ffffff;
+  /*背景*/
+  background: #c6d1d4;
+}
