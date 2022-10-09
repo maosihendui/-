@@ -1,0 +1,13 @@
+/* 标题栏样式 */
+.index_title {
+  margin-left: 30rpx;
+  margin-top: 30rpx;
+  margin-bottom: 30rpx;
+  padding-left: 20rpx;
+  border-left: 10rpx solid #0789F0;
+  font-weight: 700
+}
+.index_title text {
+  color: red;
+  font-size: 38rpx;
+}

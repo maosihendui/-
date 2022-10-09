@@ -1,0 +1,11 @@
+
+<!-- 标题栏 开始 -->
+<view class="index_title">
+  <view>距离 <text>{{xiaoqing_years}}</text> 校庆活动日还有 <text>{{xiaoqing_days}}</text> 天</view>
+  <view>距离 <text>{{kaoyan_year}}</text> 年考研还有 <text>{{kaoyan_days}}</text> 天</view>
+  <view>距离 <text>{{gk_year}}</text> 年高考还有 <text>{{gk_days}}</text> 天</view>
+  <view>距离 <text>{{gq_year}}</text> 年国庆还有 <text>{{gq_days}}</text> 天</view>
+  <view>距离 <text>{{yd_year}}</text> 年元旦还有 <text>{{yd_days}}</text> 天</view>
+  <view>距离 <text>{{sd_year}}</text> 年圣诞还有 <text>{{sd_days}}</text> 天</view>
+</view>
+<!-- 标题栏 结束 -->
